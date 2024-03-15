@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|c:\\users\\lenovo flex\\desktop\\c#\\creacion_de_clases\\creacion_de_clases\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|solutionrelative:creacion_de_clases\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|c:\\users\\lenovo flex\\desktop\\c#\\creacion_de_clases\\creacion_de_clases\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|solutionrelative:creacion_de_clases\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|c:\\users\\lenovo flex\\desktop\\c#\\creacion_de_clases\\creacion_de_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|solutionrelative:creacion_de_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|c:\\users\\lenovo flex\\desktop\\c#\\creacion_de_clases\\creacion_de_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E833D1-CD70-4E4B-B63D-DC559599D141}|Creacion_de_clases\\Creacion_de_clases.csproj|solutionrelative:creacion_de_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Creacion_de_clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Persona.cs",
+              "RelativeToolTip": "Creacion_de_clases\\Persona.cs",
+              "ViewState": "AQIAAAcAAACAt8BRuaoswBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:47:51.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Salon.cs",
+              "RelativeDocumentMoniker": "Creacion_de_clases\\Salon.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Salon.cs",
+              "RelativeToolTip": "Creacion_de_clases\\Salon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:56:23.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Asistencia.cs",
+              "RelativeDocumentMoniker": "Creacion_de_clases\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Asistencia.cs",
+              "RelativeToolTip": "Creacion_de_clases\\Asistencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:55:34.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Program.cs",
+              "RelativeDocumentMoniker": "Creacion_de_clases\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Creacion_de_clases\\Creacion_de_clases\\Program.cs",
+              "RelativeToolTip": "Creacion_de_clases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T23:40:25.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

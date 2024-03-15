@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Desafio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D6A59-D63D-41AD-AA18-3D7797378C71}|Desafio1\\Desafio1.csproj|c:\\users\\lenovo flex\\desktop\\c#\\desafio1\\desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D6A59-D63D-41AD-AA18-3D7797378C71}|Desafio1\\Desafio1.csproj|solutionrelative:desafio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D6A59-D63D-41AD-AA18-3D7797378C71}|Desafio1\\Desafio1.csproj|c:\\users\\lenovo flex\\desktop\\c#\\desafio1\\desafio1\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D6A59-D63D-41AD-AA18-3D7797378C71}|Desafio1\\Desafio1.csproj|solutionrelative:desafio1\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingresos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Desafio1\\Desafio1\\Ingresos.cs",
+              "RelativeDocumentMoniker": "Desafio1\\Ingresos.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Desafio1\\Desafio1\\Ingresos.cs",
+              "RelativeToolTip": "Desafio1\\Ingresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:25:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Desafio1\\Desafio1\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\C#\\Desafio1\\Desafio1\\Program.cs",
+              "RelativeToolTip": "Desafio1\\Program.cs",
+              "ViewState": "AQIAAAQAAABAK1ksn2ctwBgAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:24:16.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

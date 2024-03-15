@@ -1,0 +1,119 @@
+UNIVERSIDAD MARIANO GÁLVEZ DE GUATEMALA
+FACULTAD DE INGENIERÍA EN SISTEMAS DE INFORMACIÓN Y CIENCIAS 
+DE LA COMPUTACIÓN
+CURSO: PROGRAMACIÓN I
+TERCER SEMESTRE
+SECCIÓN: A
+INGENIERO MARCO TULIO
+
+ANGELICA MARÍA MEJÍA TZOC
+CARNÉ: 0907 – 23 – 8872
+FECHA DE ENTREGA: 16/02/2024
+
+
+
+								Resumen de Git y GitHub
+
+1.  ¿Qué es GIT?
+
+Es un sistema de control de versiones y el más popular, es un sistema que controla o administra las distintas versiones de un programa. Los programadores o desarrolladores cuando utilizan Git es porque quieren controlar un proyecto que va a crecer a medida que el tiempo va haciendo cambios en el proyecto, los programas van cambiando a medida que van evolucionando y para controlar estos cambios es necesario el sistema de control de versiones, utilizar Git es prácticamente indispensable para cualquier desarrollador y programador. 
+
+Git fue creado por Linus Torvalds, él lo creó específicamente porque necesitaba una manera de controlar los cambios que hacía en el código del kernel de Linux, el necesitaba un programa que le ayudara a poder administrar toda la complejidad de un programa de esa magnitud. Ahora Git tanto si es un programa grande como pequeño ayuda de igual manera a tener un listado de los cambios que se van haciendo, también ayuda a contribuir con múltiples desarrolladores desde cualquier parte del mundo, ayuda también a poder trabajar con algún proyecto personal de una 
+manera mucho más profesional. 
+
+Algo importante de Git es que puede trabajar con repositorios locales y remotos, los repositorios son tan solo un computador que administra el código, es decir se guarda dentro de un computador y luego el código va a estar accesible a múltiples desarrolladores, obviamente a los que el desarrollador desee Git provee una manera de poder seguir los cambios de un código, también lo hace a través de una manera de unos snapshot, esto quiere decir que ayuda 
+a poder tomarle una foto al código y luego se puede seguir avanzando y modificando, los snapshot lo que hacen es volver simplemente y se va a poder visualizar, alterarlo, copiarlo o modificarlo el código.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. ¿Cuáles son los comandos más importantes y para qué sirven?
+
+Git es una herramienta que interactúa directamente con el sistema operativo, por eso se maneja mucho a través de la consola, específicamente Git instala 
+una especie de terminal que es como una consola, pero con mejores funcionalidades, que trae todos los conceptos de Unix o del sistema operativo Linux o muy parecido al sistema operativo Mac ya que ambos descienden de Unix
+
+En Git hay tres estados: 
+
+- Working directory: Es donde se puede estar trabajando con todos los archivos
+- Staging area: Es donde se agregan todos los archivos que se van a preparar para el guardado.
+- Repository: Es cuando finalmente ya se este seguro de poder guardar los cambios y se pasan a un repositorio.
+
+Comandos básicos:
+
+- Git init: es una manera en la cual se puede decirle a Git o al sistema operativo que se va a crear un proyecto nuevo o utilizar un proyecto que 
+ya este creado. Git init sirve para ayudar a inicializar un proyecto nuevo.
+
+- Git add <file>: Se utiliza para poder pasar los archivos de working directory al staging área.
+
+- Git status: Se utiliza para ver en qué estados están los archivos, si están en el working directory, si están en el staging area, etc.
+
+- Git commit: Se utiliza para pasarlo desde el staging area al repository, están solo para crear un primer snapshot o una primera foto de la versión 
+del código.
+
+- Git push: Se utiliza para subirlo a un repositorio remoto, por ejemplo, cuando se tiene un código y ya este trabajado se puede subir a un servidor para que pueda ser accedido por los desarrolladores que tiene permiso para modificar el código.
+
+- Git pull: Se utiliza en caso que se este trabajando con múltiples desarrolladores trae los cambios que han hecho los otros desarrolladores.
+
+- Git clone: Lo único que hace es hacer una copia desde el servidor central donde está el código al computador para que se empiece a trabajar.
+
+- Git config –globar user.email: Para configurar el email de este usuario. 
+
+- Git checkout --: Para revertir los cambios de los archivos. 
+
+- Git diff: Para ver las diferencias hechas en los archivos.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. ¿Cuál es la diferencia entre Git y GitHub?
+
+				Diferencias
+		Git					GitHub
+-Git es un sistema de control de 		-GitHub es un servicio de alojamiento
+ versiones, una herramienta para 		 para repositorios Git
+ gestionar el historial del código fuente.
+
+-Git está instalado y mantenido en su 		-Plataforma basada en la nube
+sistema local
+
+-Herramienta de código abierto que los 		-Servicio en línea al que los desarrolladores
+ desarrolladores instalan localmente para 	 que utilizan Git pueden conectarse y cargar
+ gestionar el código fuente			 o descargar recursos.
+
+-Git no es más que una herramienta de 		-GitHub es una interfaz gráfica basada en
+ línea de comando sin interfaz y un 		 la web que reúne millones de desarrolladores
+ servidor centralizado para almacenar su 	 en una sola plataforma para colaborar en los 
+ código.					 proyectos en los que se están trabajando.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Enumere los comandos para subir cambios a un repositorio
+
+Para subir cambios a un repositorio en Git, generalmente se siguen estos 
+pasos:
+
+1. git add <archivo>: Agrega cambios al área de preparación.
+
+2. git add .: Agrega todos los cambios al área de preparación.
+
+3. git status (ayuda): Al ejecutar git status, git mostrará información sobre 
+los archivos que aún no han sido agregados al área de preparación.
+
+4. git commit -m "mensaje del commit": Confirma los cambios en el repositorio local.
+
+5. git pull: Obtiene la última versión del repositorio remoto.
+
+6. git push: Sube los cambios confirmados al repositorio remoto.
+
+Es importante tener en cuenta que algunos pasos pueden variar dependiendo del flujo de trabajo específico y la configuración de cadarepositorio, pero esto comandos son los básicos para subir cualquier cambio a un repositorio.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. ¿Qué es una branch?
+
+Una "branch" (rama) en Git es una línea de desarrollo independiente que permite a los desarrolladores trabajar en características separadas o experimentar con cambios sin afectar la rama principal del proyecto (generalmente llamada "main" o "master"). 
+
+Cuando se crea una nueva branch, se está creando una copia exacta de la rama en la que se encuentra, y a partir de ese punto, los cambios que se realicen solo afectarán a la nueva branch. Una vez que se haya completado los cambios y se esté satisfecho con ellos, se puede fusionar (merge) la branch con la rama principal para incorporar los cambios al proyecto principal.
+
+Las branches son útiles porque permiten un flujo de trabajo más organizado y facilitan la colaboración entre diferentes miembros del equipo, ya que cada 
+uno puede trabajar en su propia branch sin interferir con el trabajo de los demás

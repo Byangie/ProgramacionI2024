@@ -1,0 +1,15 @@
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\bin\Debug\net8.0\Creacion_de_clases.exe
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\bin\Debug\net8.0\Creacion_de_clases.deps.json
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\bin\Debug\net8.0\Creacion_de_clases.runtimeconfig.json
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\bin\Debug\net8.0\Creacion_de_clases.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\bin\Debug\net8.0\Creacion_de_clases.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.AssemblyInfoInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.AssemblyInfo.cs
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.sourcelink.json
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\refint\Creacion_de_clases.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\Creacion_de_clases.genruntimeconfig.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Creacion_de_clases\Creacion_de_clases\obj\Debug\net8.0\ref\Creacion_de_clases.dll
