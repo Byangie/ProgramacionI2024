@@ -1,0 +1,15 @@
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\bin\Debug\net8.0\Desafio1_Totito.exe
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\bin\Debug\net8.0\Desafio1_Totito.deps.json
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\bin\Debug\net8.0\Desafio1_Totito.runtimeconfig.json
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\bin\Debug\net8.0\Desafio1_Totito.dll
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\bin\Debug\net8.0\Desafio1_Totito.pdb
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.AssemblyInfoInputs.cache
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.AssemblyInfo.cs
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.sourcelink.json
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.dll
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\refint\Desafio1_Totito.dll
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.pdb
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\Desafio1_Totito.genruntimeconfig.cache
+C:\Users\LENOVO FLEX\Desktop\Tareas de Programacion I\Desafio1_Totito\Desafio1_Totito\obj\Debug\net8.0\ref\Desafio1_Totito.dll

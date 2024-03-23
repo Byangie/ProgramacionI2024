@@ -1,0 +1,15 @@
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\bin\Debug\net8.0\Desafio2_Compras.exe
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\bin\Debug\net8.0\Desafio2_Compras.deps.json
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\bin\Debug\net8.0\Desafio2_Compras.runtimeconfig.json
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\bin\Debug\net8.0\Desafio2_Compras.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\bin\Debug\net8.0\Desafio2_Compras.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.AssemblyInfoInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.AssemblyInfo.cs
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.sourcelink.json
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\refint\Desafio2_Compras.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\Desafio2_Compras.genruntimeconfig.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio2_Compras\Desafio2_Compras\obj\Debug\net8.0\ref\Desafio2_Compras.dll

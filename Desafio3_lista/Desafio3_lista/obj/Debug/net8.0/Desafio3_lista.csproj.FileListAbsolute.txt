@@ -1,0 +1,15 @@
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\bin\Debug\net8.0\Desafio3_lista.exe
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\bin\Debug\net8.0\Desafio3_lista.deps.json
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\bin\Debug\net8.0\Desafio3_lista.runtimeconfig.json
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\bin\Debug\net8.0\Desafio3_lista.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\bin\Debug\net8.0\Desafio3_lista.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.AssemblyInfoInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.AssemblyInfo.cs
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.sourcelink.json
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\refint\Desafio3_lista.dll
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.pdb
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\Desafio3_lista.genruntimeconfig.cache
+C:\Users\LENOVO FLEX\Desktop\C#\Desafio3_lista\Desafio3_lista\obj\Debug\net8.0\ref\Desafio3_lista.dll

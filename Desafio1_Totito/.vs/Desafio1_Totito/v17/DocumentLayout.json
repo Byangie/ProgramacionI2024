@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO FLEX\\Desktop\\Tareas de Programacion I\\Desafio1_Totito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79758599-34AE-4C17-89B0-9EC93D53F29A}|Desafio1_Totito\\Desafio1_Totito.csproj|c:\\users\\lenovo flex\\desktop\\tareas de programacion i\\desafio1_totito\\desafio1_totito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79758599-34AE-4C17-89B0-9EC93D53F29A}|Desafio1_Totito\\Desafio1_Totito.csproj|solutionrelative:desafio1_totito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO FLEX\\Desktop\\Tareas de Programacion I\\Desafio1_Totito\\Desafio1_Totito\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio1_Totito\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO FLEX\\Desktop\\Tareas de Programacion I\\Desafio1_Totito\\Desafio1_Totito\\Program.cs",
+              "RelativeToolTip": "Desafio1_Totito\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T01:07:29.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
